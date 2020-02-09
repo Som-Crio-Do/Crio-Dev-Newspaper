@@ -1,4 +1,4 @@
-## Crio Dev Newspaper
+## Crio Dev community Newspaper
 
 **Crio Dev Newspaper** is a subscription based email service which delivers aggregated and curated news (Tech blogs) to individual users based on his/her preference. 
 
